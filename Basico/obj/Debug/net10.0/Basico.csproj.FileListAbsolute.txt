@@ -1,0 +1,15 @@
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/bin/Debug/net10.0/Basico
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/bin/Debug/net10.0/Basico.deps.json
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/bin/Debug/net10.0/Basico.runtimeconfig.json
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/bin/Debug/net10.0/Basico.dll
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/bin/Debug/net10.0/Basico.pdb
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/Basico.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/Basico.AssemblyInfoInputs.cache
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/Basico.AssemblyInfo.cs
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/Basico.csproj.CoreCompileInputs.cache
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/Basico.sourcelink.json
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/Basico.dll
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/refint/Basico.dll
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/Basico.pdb
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/Basico.genruntimeconfig.cache
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/Basico/obj/Debug/net10.0/ref/Basico.dll
