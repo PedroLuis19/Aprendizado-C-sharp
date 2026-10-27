@@ -1,0 +1,14 @@
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/bin/Debug/net10.0/HelloWorld
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/home/pedro/Desktop/VSprojetcs/Aprendizado-C-sharp/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll
